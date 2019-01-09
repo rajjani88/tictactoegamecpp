@@ -5,7 +5,13 @@
 #include <cstdlib>
 
 /*
-
+Raj Jani
+Tic Tac Toe CPP mini project
+Features : 
+1. Simgle player vs Computer
+2. Two player game mode
+3. Select player name and x or o to play
+4. host to check moves and declare winner and moves 
 
 */
 
